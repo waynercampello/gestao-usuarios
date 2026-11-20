@@ -1,0 +1,11 @@
+{
+  "name": "gestao-usuarios",
+  "version": "1.0.0",
+  "description": "Desafio técnico full-stack: CRUD de usuários (Node + SQLite + HTML/JS puro)",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning backend/server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
